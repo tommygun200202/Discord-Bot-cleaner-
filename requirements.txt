@@ -1,0 +1,3 @@
+motor
+discord.py
+dnspython
