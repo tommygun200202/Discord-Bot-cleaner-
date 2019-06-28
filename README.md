@@ -10,6 +10,7 @@ python3 bot.py
 ```
 3) Update the variables in config.py   
 
+4) Please, import the 2 JSON 's into MongoDB before using too!
  
 Our bot is designed to save admins time by banning bots that spread inappropriate links/messages to minors and other members. We have also designed the bot using a point system. We also have included some basic moderation commands for you to use!
 
